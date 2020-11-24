@@ -10,8 +10,7 @@
 - 🎓 BS Computer Science, MIT (Cambridge, MA) class of 2020 <br>
 - 📚 With experience in full-stack development, security, machine learning, data science, data visualization <br>
 - 🌱 Open to learning all things computer science <br>
-- 🔎 Looking for work-from-home internship opportunities <br>
-- 📍 Philippines 🇵🇭 <br>
+- 🔎 Looking for summer 2021 internship opportunities <br>
 
 Thanks for visiting my Github page! Check out some of my repos:
 - [**Video Annotation Tool**](https://www.github.com/adjaba/video-annotation-tool) <br> 

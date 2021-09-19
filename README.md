@@ -8,11 +8,13 @@
 </a>
 <br>
 - 🎓 BS Computer Science, MIT (Cambridge, MA) class of 2020 <br>
+- 🌱 M.Eng Computer Science, MIT (Cambridge, MA) class of 2022 <br>
 - 📚 With experience in full-stack development, security, machine learning, data science, data visualization <br>
-- 🌱 Open to learning all things computer science <br>
-- 🔎 Looking for summer 2021 internship opportunities <br>
+- 🔎 Looking for summer 2022 internship opportunities <br>
 
 Thanks for visiting my Github page! Check out some of my repos:
+- [**GistHub**](https://gisthub-rho.vercel.app/) <br> 
+GistHub is a platform for developers to share code and text snippets privately. Inspired by Github's secret gists and how their security is through obscurity and [not through access control](https://gist.github.com/zmwangx/bc79e7d95d82c2f5e0976975b6e1c6d6), I worked with two others to build Gisthub in 24 hours during HackMIT 2021. Gisthub supports the creation of public and private code snippets and serves as a tool for developers to create gists and view gists shared with them. 
 - [**Video Annotation Tool**](https://www.github.com/adjaba/video-annotation-tool) <br> 
 A website I built with React, Node.js and SQL during my internship at NCSOFT that allows users to upload videos, annotate it for scene recognition, and output a JSON. The tool is primarily built for baseball videos to be annotated frame-by-frame with appropriate "events", "scenes", and "actions" for game highlights. More details and documentation on features can be found [here](https://www.github.com/adjaba/video-annotation-tool/README.md).
 - [**Icon Style Transfer**](https://www.github.com/adjaba/icon-ui) <br> 

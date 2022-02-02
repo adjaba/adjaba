@@ -10,7 +10,6 @@
 - 🎓 BS Computer Science, MIT (Cambridge, MA) class of 2020 <br>
 - 🌱 M.Eng Computer Science, MIT (Cambridge, MA) class of 2022 <br>
 - 📚 With experience in full-stack development, security, machine learning, data science, data visualization <br>
-- 🔎 Looking for summer 2022 internship opportunities <br>
 
 Thanks for visiting my Github page! Check out some of my repos:
 - [**GistHub**](https://gisthub-rho.vercel.app/) <br> 
